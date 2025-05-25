@@ -12,11 +12,10 @@ This is my code block
 resource "aws_instance" "myserver" {
   ami           = "ami-830c94e3"
   instance_type = "t2.micro"
-
-  security_groups = []
-
-  tags = {
-    Name = "thy-server"
-  }
 }
 ```
+
+This is my task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
