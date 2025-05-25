@@ -4,3 +4,5 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+![My cat image](https://octodex.github.com/images/yaktocat.png)
